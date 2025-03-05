@@ -1,23 +1,18 @@
-# Eclipse files
-/.settings
+# GitHub Sync Application - Managed .gitignore
+# Last updated: 2025-03-05 08:39:01
+
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.gradle/
+.gradletasknamecache
+.idea
 /.classpath
 /.project
-/eclipse/
-/target-eclipse
-
-# IntelliJ files
-*.iws
-*.iml
-.idea
-/out
-*.ipr
-
-# Gradle files
-.gradletasknamecache
-.gradle/
-
-# Mac OS files
-.DS_Store
-
-# Build files
+/.settings
 /build
+/eclipse/
+/out
+/target-eclipse
+test.txt
